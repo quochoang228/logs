@@ -1,6 +1,6 @@
 import 'dart:developer' as dev;
 
-import 'package:pub/pub.dart';
+import 'package:logging/logging.dart';
 
 class LogUtils {
   const LogUtils._();
